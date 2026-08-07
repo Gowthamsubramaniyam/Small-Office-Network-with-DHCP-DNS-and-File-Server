@@ -74,7 +74,7 @@ DNS
 
 ## 📷 Screenshots
 
-(Add your screenshots here)
+
 
 ---
 
